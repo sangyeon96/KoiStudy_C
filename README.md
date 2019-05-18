@@ -2,18 +2,18 @@
 
 
 
-###Prob_No0001
+### Prob_No0001
 Hello출력
 
 
 
-###Prob_No0002
+### Prob_No0002
 
 Hello World출력
 
 
 
-###Prob_No0003
+### Prob_No0003
 
 Hello
 
@@ -21,7 +21,7 @@ World출력
 
 
 
-###Prob_No0004
+### Prob_No0004
 
 'Hello World'출력
 
@@ -29,7 +29,7 @@ World출력
 
 
 
-###Prob_No0005
+### Prob_No0005
 
 "Hello World"출력
 
@@ -37,7 +37,7 @@ World출력
 
 
 
-###Prob_No0006
+### Prob_No0006
 
 "!@#$%^&*()"출력
 
@@ -45,7 +45,7 @@ World출력
 
 
 
-###Prob_No0007
+### Prob_No0007
 
 "C:\Download\hello.cpp"출력
 
@@ -53,7 +53,7 @@ World출력
 
 
 
-###Prob_No0008
+### Prob_No0008
 
 아스키코드 출력
 
@@ -61,43 +61,43 @@ World출력
 
 
 
-###Prob_No0009
+### Prob_No0009
 
 위에 배운거 응용
 
 
 
-###Prob_No000A
+### Prob_No000A
 
 정수 한 개 입력받아 그대로 출력1
 
 
 
-###Prob_No000B
+### Prob_No000B
 
 문자 한 개 입력받아 그대로 출력
 
 
 
-###Prob_No000C
+### Prob_No000C
 
 실수 한 개 입력받아 그대로 출력
 
 
 
-###Prob_No000D
+### Prob_No000D
 
 정수 두 개 입력받아 그대로 출력
 
 
 
-###Prob_No000E
+### Prob_No000E
 
 문자 두 개 입력받아 순서 바꿔 출력
 
 
 
-###Prob_No000F
+### Prob_No000F
 
 실수 입력받아 둘째 자리까지 출력
 
@@ -105,13 +105,13 @@ World출력
 
 
 
-###Prob_No0010
+### Prob_No0010
 
 정수 한 개 입력받아 세 번 출력
 
 
 
-###Prob_No0011
+### Prob_No0011
 
 시간 입력받아 그대로 출력
 
@@ -121,7 +121,7 @@ World출력
 
 
 
-###Prob_No0012
+### Prob_No0012
 
 년월일 입력받아 그대로 출력
 
@@ -129,7 +129,7 @@ World출력
 
 
 
-###Prob_No0013
+### Prob_No0013
 
 주민번호 입력받아 형태 바꿔 출력
 
@@ -145,13 +145,13 @@ World출력
 
 
 
-###Prob_No0014
+### Prob_No0014
 
 단어 한 개 입력받아 그대로 출력
 
 
 
-###Prob_No0015
+### Prob_No0015
 
 문장 한 개 입력받아 그대로 출력
 
@@ -169,7 +169,7 @@ World출력
 
 
 
-###Prob_No0016
+### Prob_No0016
 
 실수 한 개 입력받아 부분별로 출력
 
@@ -177,7 +177,7 @@ World출력
 
 
 
-###Prob_No0017
+### Prob_No0017
 
 단어 한 개 입력받아 나눠서 출력
 
@@ -185,25 +185,25 @@ World출력
 
 
 
-###Prob_No0018
+### Prob_No0018
 
 정수 한 개 입력받아 나누어 출력(일의 자리, 십의 자리, ~~~)
 
 
 
-###Prob_No0019
+### Prob_No0019
 
 시분초 입력받아 분 만 출력
 
 
 
-###Prob_No001A
+### Prob_No001A
 
 년월일 입력받아 형식 바꿔 출력(yyyy.mm.dd -> dd-mm-yyyy)
 
 
 
-###Prob_No001B
+### Prob_No001B
 
 정수 한 개 입력받아 그대로 출력2
 
@@ -213,7 +213,7 @@ World출력
 
 
 
-###Prob_No001C
+### Prob_No001C
 
 실수 한 개 입력받아 그대로 출력2
 
@@ -223,7 +223,7 @@ World출력
 
 
 
-###Prob_No001D
+### Prob_No001D
 
 정수 한 개를 입력받아 그대로 출력3
 
@@ -235,7 +235,7 @@ World출력
 
 
 
-###Prob_No001E
+### Prob_No001E
 
 10진 정수 한 개 입력받아 8진수로 출력
 
@@ -243,7 +243,7 @@ World출력
 
 
 
-###Prob_No001F
+### Prob_No001F
 
 10진 정수 한 개 입력받아 16진수로 출력1(%x)
 
@@ -251,49 +251,49 @@ World출력
 
 
 
-###Prob_No0020
+### Prob_No0020
 
 10진 정수 한 개 입력받아 16진수로 출력2(%X)
 
 
 
-###Prob_No0021
+### Prob_No0021
 
 8진 정수 한 개 입력받아 10진수로 출력
 
 
 
-###Prob_No0022
+### Prob_No0022
 
 16진 정수 한 개 입력받아 8진수로 출력
 
 
 
-###Prob_No0023
+### Prob_No0023
 
 영문자 한 개 입력받아 10진수로 출력
 
 
 
-###Prob_No0024
+### Prob_No0024
 
 정수 입력받아 아스키 문자로 출력
 
 
 
-###Prob_No0025
+### Prob_No0025
 
 정수 두 개 입력받아 합 출력1
 
 
 
-###Prob_No0026
+### Prob_No0026
 
 정수 두 개 입력받아 합 출력2
 
 
 
-###Prob_No0027
+### Prob_No0027
 
 정수 한 개 입력받아 부호 바꿔 출력
 
@@ -302,7 +302,7 @@ World출력
 
 
 
-###Prob_No0028
+### Prob_No0028
 
 문자 한 개 입력받아 다음 문자 출력
 
@@ -310,7 +310,7 @@ World출력
 
 
 
-###Prob_No0029
+### Prob_No0029
 
 정수 두 개 입력받아 나눈 몫 출력
 
@@ -322,13 +322,13 @@ World출력
 
 
 
-###Prob_No002A
+### Prob_No002A
 
 정수 두 개 입력받아 나눈 나머지 출력
 
 
 
-###Prob_No002B
+### Prob_No002B
 
 정수 한 개 입력받아 1 더해 출력
 
@@ -338,7 +338,7 @@ World출력
 
 
 
-###Prob_No002C
+### Prob_No002C
 
 정수 두 개 입력받아 자동 계산(앞에 배운거 응용)
 
@@ -346,7 +346,7 @@ World출력
 
 
 
-###Prob_No002D
+### Prob_No002D
 
 정수 세 개 입력받아 합과 평균 출력
 
@@ -357,7 +357,7 @@ World출력
 
 
 
-###Prob_No002E
+### Prob_No002E
 
 정수 한 개 입력받아 2배 곱해 출력
 
@@ -375,7 +375,7 @@ World출력
 
 
 
-###Prob_No002F
+### Prob_No002F
 
 한 번에 2n 배로 출력
 
@@ -384,7 +384,7 @@ World출력
 
 
 
-###Prob_No0030
+### Prob_No0030
 
 두 정수 입력받아 비교1
 
@@ -395,25 +395,25 @@ World출력
 
 
 
-###Prob_No0031
+### Prob_No0031
 
 두 정수 입력받아 비교2
 
 
 
-###Prob_No0032
+### Prob_No0032
 
 두 정수 입력받아 비교3
 
 
 
-###Prob_No0033
+### Prob_No0033
 
 두 정수 입력받아 비교4
 
 
 
-###Prob_No0034
+### Prob_No0034
 
 참 거짓 바꾸기
 
@@ -421,37 +421,37 @@ World출력
 
 
 
-###Prob_No0035
+### Prob_No0035
 
 둘 다 참일 경우만 참 출력
 
 
 
-###Prob_No0036
+### Prob_No0036
 
 하나라도 참이면 참 출력
 
 
 
-###Prob_No0037
+### Prob_No0037
 
 참/거짓이 서로 다를 때에만 참 출력
 
 
 
-###Prob_No0038
+### Prob_No0038
 
 참/거짓이 서로 같을 때에만 참 출력
 
 
 
-###Prob_No0039
+### Prob_No0039
 
 둘 다 거짓일 경우만 참 출력
 
 
 
-###Prob_No003A
+### Prob_No003A
 
 비트단위로 바꿔 출력
 
@@ -463,25 +463,25 @@ World출력
 
 
 
-###Prob_No003B
+### Prob_No003B
 
 비트단위로 and 하여 출력
 
 
 
-###Prob_No003C
+### Prob_No003C
 
 비트단위로 or 하여 출력
 
 
 
-###Prob_No003D
+### Prob_No003D
 
 비트단위로 xor 하여 출력
 
 
 
-###Prob_No003E
+### Prob_No003E
 
 두 정수 입력받아 큰 수 출력
 
@@ -492,7 +492,7 @@ World출력
 
 
 
-###Prob_No003F
+### Prob_No003F
 
 정수 세 개 입력받아 가장 작은 수 출력
 
@@ -505,7 +505,7 @@ World출력
 
 
 
-###Prob_No0040
+### Prob_No0040
 
 정수 세 개 입력받아 짝수만 출력
 
@@ -513,13 +513,13 @@ else if를 사용하면 wrong answer..
 
 
 
-###Prob_No0041
+### Prob_No0041
 
 정수 세 개 입력받아 짝/홀 출력
 
 
 
-###Prob_No0042
+### Prob_No0042
 
 정수 한 개 입력받아 분석
 
@@ -527,19 +527,19 @@ else if를 사용하면 wrong answer..
 
 
 
-###Prob_No0043
+### Prob_No0043
 
 정수 한 개 입력받아 평가 출력
 
 
 
-###Prob_No0044
+### Prob_No0044
 
 평가 입력받아 다르게 출력
 
 
 
-###Prob_No0045
+### Prob_No0045
 
 달 입력 받아 계절 출력
 
@@ -547,7 +547,7 @@ else if를 사용하면 wrong answer..
 
 
 
-###Prob_No0046
+### Prob_No0046
 
 0 입력될 때까지 무한 출력1
 
@@ -572,13 +572,13 @@ goto 명령은 반복실행을 만들어낼 수 있는 가장 간단한 명령�
 
 
 
-###Prob_No0047
+### Prob_No0047
 
 수 입력받아 계속 출력
 
 
 
-###Prob_No0048
+### Prob_No0048
 
 0 입력될 때까지 무한 출력2
 
@@ -586,19 +586,19 @@ while문 이용
 
 
 
-###Prob_No0049
+### Prob_No0049
 
 정수 한 개 입력받아 카운트다운 출력1
 
 
 
-###Prob_No004A
+### Prob_No004A
 
 정수 한 개 입력받아 카운트다운 출력2
 
 
 
-###Prob_No004B
+### Prob_No004B
 
 문자 한 개 입력받아 알파벳 출력
 
@@ -606,7 +606,7 @@ do-while문 이용
 
 
 
-###Prob_No004C
+### Prob_No004C
 
 정수 한 개 입력받아 그 수까지 출력
 
@@ -614,60 +614,60 @@ for문 이용
 
 
 
-###Prob_No004D
+### Prob_No004D
 
 짝수 합 구하기
 
 
 
-###Prob_No004E
+### Prob_No004E
 
 원하는 문자 입력할 때까지 반복 출력
 
 
 
-###Prob_No004F
+### Prob_No004F
 
 언제까지 더해야할까?
 
 
 
-###Prob_No0050
+### Prob_No0050
 
 주사위를 2개 던지면?
 
 
 
-###Prob_No0051
+### Prob_No0051
 
 16진수 구구단?
 
 
 
-###Prob_No0052
+### Prob_No0052
 
 3 6 9 게임의 왕이 되자!
 
 
 
-###Prob_No0053
+### Prob_No0053
 
 물감만들기
 
 
 
-###Prob_No0054
+### Prob_No0054
 소리 파일 저장용량 계산
 
 
 
-###Prob_No0055
+### Prob_No0055
 
 그림 파일 저장용량 계산
 
 
 
-###Prob_No0056
+### Prob_No0056
 
 여기까지! 이제그만~
 
@@ -675,7 +675,7 @@ for문 이용
 
 
 
-###Prob_No0057
+### Prob_No0057
 
 3의 배수는 통과?
 
@@ -683,73 +683,73 @@ continue 이용
 
 
 
-###Prob_No0058
+### Prob_No0058
 
 수 나열1
 
 
 
-###Prob_No0059
+### Prob_No0059
 
 수 나열2
 
 
 
-###Prob_No005A
+### Prob_No005A
 
 수 나열3
 
 
 
-###Prob_No005B
+### Prob_No005B
 
 함께 문제 푸는 날1
 
 
 
-###Prob_No005C
+### Prob_No005C
 
 이상한 출석 번호 부르기1
 
 
 
-###Prob_No005D
+### Prob_No005D
 
 이상한 출석 번호 부르기2
 
 
 
-###Prob_No005E
+### Prob_No005E
 
 이상한 출석 번호 부르기3
 
 
 
-###Prob_No005F
+### Prob_No005F
 
 바둑판에 흰돌 놓기
 
 
 
-###Prob_No0060
+### Prob_No0060
 
 바둑알 십자 뒤집기
 
 
 
-###Prob_No0061
+### Prob_No0061
 
 설탕과자 뽑기
 
 
 
-###Prob_No0062
+### Prob_No0062
 
 성실한 개미
 
 
 
-###Prob_No0063
+### Prob_No0063
 
 찍어 맞춰라??
 
